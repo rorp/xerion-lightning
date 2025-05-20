@@ -1,12 +1,12 @@
 # Xerion - Lightning Tip Page
 
-A simple web service that allows visitors to send Lightning payments. Built with Elixir and the Lexe API.
+A simple web service that allows visitors to send Lightning payments. Built with Elixir and the [Lexe API](https://github.com/lexe-app/lexe-sidecar-sdk).
 
 ## Prerequisites
 
 - Elixir 1.18.3
 - OTP 27
-- Lexe sidecar binary
+- [Lexe sidecar binary](https://github.com/lexe-app/lexe-sidecar-sdk/blob/master/BUILD.md)
 
 ## Environment Variables
 
